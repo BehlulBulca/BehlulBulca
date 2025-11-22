@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓4th Grade Econometrics student who's busy with private projects <br><br>🛠️ I’m currently working on:<br>• A Python-powered financial analysis platform (LSTM, Optuna, ML)<br>• Full-stack upgrades: PostgreSQL, Next.js, Tailwind<br>• Deploying with WSGI, Gunicorn, Docker & Azure<br><br>🌱 I’m currently learning:<br>• Deep learning & TensorFlow optimizations<br>• Large language models (Ollama) & MCP integrations<br><br>💬 Ask me about:<br>• Backend architecture, ML pipelines, databases<br>• LLM workflows, API design & deployment
+🧑‍🎓Final-year Econometrics student who's busy with private projects <br><br>🛠️ I’m currently working on:<br>• A Python-powered financial analysis platform (LSTM, Optuna, ML)<br>• Full-stack upgrades: PostgreSQL, Next.js, Tailwind<br>• Deploying with WSGI, Gunicorn, Docker & Azure<br><br>🌱 I’m currently learning:<br>• Deep learning & TensorFlow optimizations<br>• Large language models (Ollama) & MCP integrations<br><br>💬 Ask me about:<br>• Backend architecture, ML pipelines, databases<br>• LLM workflows, API design & deployment
 
 
 ## 🌐 Socials:
